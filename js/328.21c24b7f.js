@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweek6"]=self["webpackChunkweek6"]||[]).push([[328],{328:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var u=r(252);function t(e,n,r,t,a,c){return(0,u.wg)(),(0,u.iD)("h1",null,"後臺訂單")}var a={name:"OrdersView",data(){return{}}},c=r(744);const s=(0,c.Z)(a,[["render",t]]);var f=s}}]);
+//# sourceMappingURL=328.21c24b7f.js.map
